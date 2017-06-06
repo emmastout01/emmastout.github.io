@@ -3,3 +3,10 @@ h3 {
   text-transform: uppercase;
   color: blue;
 }
+.header {
+ position: fixed;
+}
+
+p{
+ display: inline;
+}
