@@ -1,13 +1,33 @@
+
 .main {
  margin: 10px 200px;
  border: solid 2px black;
  border-radius: 10px;
+ background-color: rgb(172, 239, 242);
 }
+
+.name {
+ font-family: 'Architects Daughter', sans-serif;
+}
+
 .header {
  position: fixed;
 }
 
-p {
- display: inline;
- color: red;
+.content {
+ padding-top: 200px;
 }
+
+.workplace, .duration {
+ display: inline;
+}
+
+.workplace {
+ float: left;
+ font-weight: bold;
+}
+
+.duration {
+ float: right;
+}
+
