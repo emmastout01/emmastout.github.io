@@ -21,9 +21,8 @@
  font-size: 24px;
 }
 
-.content {
+.education {
  margin-top: 200px;
- font-size: 18px;
 }
 
 .workplace, .duration {
@@ -41,4 +40,8 @@
 
 .position {
  font-style: italic;
+}
+
+li {
+ font-size: 18px;
 }
