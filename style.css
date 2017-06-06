@@ -12,10 +12,13 @@
 
 .header {
  position: fixed;
+ background-color: rgb(118, 165, 235);
+ z-index: 1000;
 }
 
 .content {
- padding-top: 200px;
+ margin-top: 200px;
+ font-size: 18px;
 }
 
 .workplace, .duration {
@@ -31,3 +34,6 @@
  float: right;
 }
 
+.position {
+ font-style: italic;
+}
