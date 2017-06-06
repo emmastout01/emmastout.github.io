@@ -6,14 +6,19 @@
  background-color: rgb(172, 239, 242);
 }
 
-.name {
- font-family: 'Architects Daughter', sans-serif;
-}
-
 .header {
  position: fixed;
  background-color: rgb(118, 165, 235);
+ width: 600px;
  z-index: 1000;
+}
+
+.name {
+ font-family: "Architects Daughter", sans-serif;
+}
+
+.contact {
+ font-size: 24px;
 }
 
 .content {
