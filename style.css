@@ -1,15 +1,16 @@
 
 .content {
- margin: 10px 200px 10px 200px;
- border: solid 2px black;
+ margin: 0 200px 10px 200px;
+ border: solid 2px rgb(65, 69, 113);
  border-radius: 20px;
- background-color: rgb(172, 239, 242);
+ background-color: rgb(206, 208, 227);
 }
 
 .header {
  background-color: rgb(118, 165, 235);
  margin: 10px 200px 0 200px;
  border-radius: 20px;
+ border: solid 2px rgb(65, 69, 113);
 }
 
 .name {
