@@ -37,12 +37,14 @@ p li {
 
 .workplace {
  float: left;
+ clear: right;
  font-weight: bold;
  font-size: 22px;
 }
 
 .duration {
  float: right;
+ clear: left;
 }
 
 .position {
