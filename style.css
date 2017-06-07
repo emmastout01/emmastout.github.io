@@ -1,15 +1,15 @@
 
-.main {
- margin: 10px 200px;
+.content {
+ margin: 200px 200px 10px 200px;
  border: solid 2px black;
- border-radius: 10px;
+ border-radius: 20px;
  background-color: rgb(172, 239, 242);
 }
 
 .header {
  position: fixed;
  background-color: rgb(118, 165, 235);
- width: 1000px;
+ margin: 10px 200px 0 200px;
  z-index: 1000;
 }
 
