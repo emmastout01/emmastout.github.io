@@ -18,12 +18,16 @@
 }
 
 .contact {
- font-size: 24px;
+ font-size: 22px;
  text-align: center;
 }
 
-.education {
- margin-top: 200px;
+.heading {
+ border-bottom: 1px solid rgb(65, 69, 113);
+}
+
+p li {
+ font-size: 18px;
 }
 
 .workplace, .duration {
@@ -33,6 +37,7 @@
 .workplace {
  float: left;
  font-weight: bold;
+ font-size: 22px;
 }
 
 .duration {
@@ -41,8 +46,4 @@
 
 .position {
  font-style: italic;
-}
-
-li {
- font-size: 18px;
 }
