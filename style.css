@@ -5,7 +5,7 @@
 
 
 .content {
- margin: 0 200px 10px 200px;
+ padding: 150px 10px 10px 10px;
  border: solid 2px rgb(65, 69, 113);
  background-color: rgb(206, 208, 227);
 }
@@ -23,16 +23,20 @@
 
 .name {
  font-family: "Architects Daughter", sans-serif;
- font-size: 50px;
+ font-size: 40px;
 }
 
 .contact {
+ font-family: "Architects Daughter", sans-serif;
  font-size: 22px;
- text-align: center;
 }
 
 .heading {
  border-bottom: 1px solid rgb(65, 69, 113);
+}
+
+img {
+border-radius: 100% 
 }
 
 p li {
