@@ -32,13 +32,13 @@
 .name {
  font-family: "Architects Daughter", sans-serif;
  font-size: 40px;
- line-height: 1.5em;
+ line-height: .3em;
 }
 
 .contact {
  font-family: "Architects Daughter", sans-serif;
  font-size: 22px;
- line-height: 1.5em;
+ line-height: .5em;
 }
 
 img {
