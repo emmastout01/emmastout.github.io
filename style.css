@@ -39,6 +39,7 @@
 img {
  border-radius: 100%;
  float: right;
+ object-fit: cover;
 }
 
 p li {
