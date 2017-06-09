@@ -26,7 +26,6 @@
 
 .headercontainer {
  display: inline-block;
- float: left;
 }
 
 .name {
@@ -43,9 +42,7 @@
 
 img {
  border-radius: 100%;
- float: right;
- position: relative
-  right: 15px;
+ border: 1px solid rgb(65, 69, 113);
 }
 
 .heading {
