@@ -57,20 +57,18 @@ p li {
  font-size: 18px;
 }
 
+.experience-line {
+ display: flex; 
+ justify-content: space-between;
+}
+
 .workplace, .duration {
- display: block;
+ display: inline-block;
 }
 
 .workplace {
- float: left;
- clear: right;
  font-weight: bold;
  font-size: 22px;
-}
-
-.duration {
- float: right;
- clear: left;
 }
 
 .position {
