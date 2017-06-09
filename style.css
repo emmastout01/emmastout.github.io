@@ -38,8 +38,7 @@
 
 img {
  border-radius: 100%;
- display: block;
- 
+ float: right;
 }
 
 p li {
