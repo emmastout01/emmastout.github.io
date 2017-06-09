@@ -14,6 +14,8 @@
 .header {
   background-color: rgb(118, 165, 235);
   border-bottom: 1px solid rgb(118, 165, 235);
+  display: flex;
+   justify-content: space-around;
   overflow-y: auto;
   width: 100%;
   position: fixed;
@@ -42,10 +44,8 @@
 img {
  border-radius: 100%;
  float: right;
- object-fit: cover;
  position: relative
   right: 15px;
-  bottom: 15px;
 }
 
 .heading {
