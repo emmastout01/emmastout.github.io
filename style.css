@@ -22,6 +22,11 @@
   z-index: 1000
 }
 
+.headercontainer {
+ display: inline-block;
+ float: left;
+}
+
 .name {
  font-family: "Architects Daughter", sans-serif;
  font-size: 40px;
@@ -32,15 +37,19 @@
  font-size: 22px;
 }
 
-.heading {
- border-bottom: 1px solid rgb(65, 69, 113);
-}
-
 img {
  border-radius: 100%;
  float: right;
  object-fit: cover;
+ position: relative
+  right: 15px;
+  bottom: 15px;
 }
+
+.heading {
+ border-bottom: 1px solid rgb(65, 69, 113);
+}
+
 
 p li {
  font-size: 18px;
