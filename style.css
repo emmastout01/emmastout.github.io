@@ -48,14 +48,12 @@ img {
 .heading {
  font-size: 22px;
  border-bottom: 1px solid rgb(65, 69, 113);
-}
-
-h3 p {
- line-height: .3em
+ line-height: 26px;
 }
 
 p li {
  font-size: 18px;
+ line-height: 22px;
 }
 
 .experience-line {
