@@ -50,6 +50,9 @@ img {
  border-bottom: 1px solid rgb(65, 69, 113);
 }
 
+h3 p {
+ line-height: .3em
+}
 
 p li {
  font-size: 18px;
