@@ -1,6 +1,6 @@
 
 * { 
- border: 1px solid blue;
+ border: 1px;
 }
 
 .main{
@@ -71,9 +71,17 @@ p li {
 .workplace {
  font-weight: bold;
  font-size: 18px;
+ margin: 0px;
+ padding: 0px;
+}
+
+.duration {
+margin: 0px;
+ padding:0px;
 }
 
 .position {
  font-style: oblique;
- 
+ margin: 0px;
+ padding: 0px;
 }
