@@ -4,7 +4,7 @@
 }
 
 .main{
- background-color:rgb(109, 115, 171);
+ background-color:rgb(78, 159, 132);
   width: 100%;
 }
 
@@ -12,13 +12,13 @@
 .content {
  padding: 115px 10px 10px 10px;
  margin: 10px 200px;
- border: solid 2px rgb(65, 69, 113);
- background-color: rgb(206, 208, 227);
+ border: solid 2px rgb(40,102,82);
+ background-color: rgb(152,214,194);
 }
 
 .header {
-  background-color: rgb(118, 165, 235);
-  border-bottom: 2px solid rgb(65, 69, 113);
+  background-color: rgb(92,187,156);
+  border-bottom: 2px solid rgb(40,102,82);
   display: flex;
    justify-content: space-around;
   overflow-y: auto;
@@ -47,12 +47,12 @@
 
 img {
  border-radius: 100%;
- border: 1px solid rgb(65, 69, 113);
+ border: 1px solid rgb(40,102,82);
 }
 
 .heading {
  font-size: 22px;
- border-bottom: 1px solid rgb(65, 69, 113);
+ border-bottom: 1px solid rgb(40,102,82);
  line-height: 26px;
  text-transform: uppercase;
 }
