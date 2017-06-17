@@ -1,4 +1,8 @@
 
+* { 
+ border: 1px;
+}
+
 .main{
  background-color:rgb(109, 115, 171);
   width: 100%;
