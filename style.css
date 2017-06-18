@@ -99,3 +99,8 @@ margin: 0px;
  display: flex;
  justify-content: space-around;
 }
+
+.skills {
+ margin-top: 0px;
+ padding: 0px;
+}
