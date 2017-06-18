@@ -86,8 +86,13 @@ margin: 0px;
  padding: 0;
 }
 
-.position .right .left {
+.position {
  font-style: oblique;
  margin: 0px;
  padding: 0px;
+}
+
+.flex {
+ display: flex;
+ justify-content: flex-start;
 }
