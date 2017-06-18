@@ -60,10 +60,13 @@ img {
 p li {
  font-size: 18px;
  line-height: 22px;
- font-family: 'PT Serif', serif;
 }
 
-.experience-line {
+p {
+ font-family: "PT Serif", serif;
+}
+ 
+ .experience-line {
  display: flex; 
  justify-content: space-between;
 }
