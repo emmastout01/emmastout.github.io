@@ -55,6 +55,7 @@ img {
  border-bottom: 1px solid rgb(40,102,82);
  line-height: 26px;
  text-transform: uppercase;
+ font-family: "PT Serif", serif;
 }
 
 p li {
@@ -63,6 +64,10 @@ p li {
 }
 
 p {
+ font-family: "PT Serif", serif;
+}
+
+li { 
  font-family: "PT Serif", serif;
 }
  
