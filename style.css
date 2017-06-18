@@ -80,8 +80,12 @@ margin: 0px;
  padding:0px;
 }
 
-.position {
+.position .right .left {
  font-style: oblique;
  margin: 0px;
  padding: 0px;
+}
+
+.inline {
+ display: inline;
 }
